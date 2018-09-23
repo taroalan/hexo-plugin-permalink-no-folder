@@ -1,0 +1,25 @@
+{
+  "name": "hexo-plugin-permalink-no-folder",
+  "version": "0.1.0",
+  "description": "Help you remove folder name in your permalink",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangchi/hexo-plugin-permalink-no-folder.git"
+  },
+  "keywords": [
+    "permalink"
+  ],
+  "author": "Wang Chi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangchi/hexo-plugin-permalink-no-folder/issues"
+  },
+  "homepage": "https://github.com/wangchi/hexo-plugin-permalink-no-folder#readme"
+}
