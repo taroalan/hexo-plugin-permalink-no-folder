@@ -48,6 +48,21 @@ permalink: :title.html
 permalink_no_folder: true
 ```
 
+## Replacement
+
+In case you want to replace your folder name with a custom name, you can set in your config a replacement string. For example:
+
+```
+permalink_no_folder_replacement: post/
+```
+
+... will lead to:
+
+```
+/post/hello-world.html
+/post/today-is-a-good-day.html
+```
+
 ## LICENSE
 
 [MIT LICENSE](./LICENSE)
